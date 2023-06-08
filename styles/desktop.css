@@ -1,4 +1,7 @@
 @import url(./styles.css);
+body {
+  margin-block: 2.5;
+}
 header {
   max-width: 35rem;
   margin: auto;
