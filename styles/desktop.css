@@ -1,6 +1,6 @@
 @import url(./styles.css);
 body {
-  margin-block: 2.5;
+  margin-block: 2.5rem;
 }
 header {
   max-width: 35rem;
